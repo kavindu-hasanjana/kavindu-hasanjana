@@ -1,5 +1,5 @@
-## Hi I a'm Kavindu Hasanjana 👋
-# I'm Software Engineer in ICBT Campus(Undergraduate)
+# Hi I a'm Kavindu Hasanjana 👋
+## I'm Software Engineer in ICBT Campus(Undergraduate)
 <!--
 **kavindu-hasanjana/kavindu-hasanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
